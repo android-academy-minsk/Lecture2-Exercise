@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common dimens-->
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_very_small">4dp</dimen>
+
+    <!--Main Activity dimens -->
+    <dimen name="main_avatar_dimen">80dp</dimen>
+    <dimen name="avatar_dimen">50dp</dimen>
+    <dimen name="pin_image_dimen">16dp</dimen>
+    <dimen name="text_id_height">26dp</dimen>
+
+</resources>

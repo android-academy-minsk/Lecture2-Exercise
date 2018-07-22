@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture2-Exercise</string>
+    <string name="id_str">ID addicts</string>
+    <string name="day_conversion">Yesterday</string>
+    <string name="message_title">You: Photo message</string>
+    <string name="btn_like_text">text like button</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </string>
+</resources>
